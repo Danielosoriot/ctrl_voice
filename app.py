@@ -105,7 +105,7 @@ st.title("🎤 INTERFACES MULTIMODALES")
 st.subheader("🔥 CONTROL POR VOZ - ESTILO ANUEL 🔥")
 
 # Imagen
-image = Image.open('voice_ctrl.jpg')
+image = Image.open('anuel6.jpg')
 st.image(image, width=250)
 
 st.write("Toca el botón y **habla con flow** 🎙️ — deja que tu voz mande en la acción.")
